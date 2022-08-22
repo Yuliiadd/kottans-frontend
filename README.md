@@ -4,7 +4,7 @@
  1. **General**
     - [x] [Git Basics](#0-git-basics)
     - [x] [Linux CLI and Networking](#1-linux-cli-and-networking)
-    - [ ] [VCS (hello gitty), GitHub and Collaboration](#2-vcs-hello-gitty-github-and-collaboration)
+    - [x] [VCS (hello gitty), GitHub and Collaboration](#2-vcs-hello-gitty-github-and-collaboration)
   
  2. **Front-End Basics**
 
@@ -48,8 +48,9 @@ __
 ___
 
 ## 3. VCS (hello gitty), GitHub and Collaboration
-<p>Пройдено 3 та 4 тижні курсу на Coursera.</p>
+<p>Пройдено 3 та 4 тижні курсу на Coursera. Складно дались віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes.</p>
 <details><summary>Results</summary>
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Coursera_w3.png" alt="Coursera_w3" title="Coursera_w3 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Coursera_w4.png" alt="Coursera_w4" title="Coursera_w4 is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Git_Remotes.png" alt="Git_Remotes" title="Advanced Git Remotes is completed">
 </details>
