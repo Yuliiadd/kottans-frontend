@@ -8,7 +8,7 @@
   
  2. **Front-End Basics**
 
-    - [ ] [Intro to HTML & CSS](#3-intro-to-html-and-css)
+    - [x] [Intro to HTML & CSS](#3-intro-to-html-and-css)
     - [ ] [Responsive Web Design](#5-responsive-web-design)
     - [ ] [HTML & CSS Practice](#6-html-css-practice)
     - [ ] [JavaScript Basics](#7-javascript-basics)
@@ -54,3 +54,13 @@ ___
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Coursera_w4.png" alt="Coursera_w4" title="Coursera_w4 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Git_Remotes.png" alt="Git_Remotes" title="Advanced Git Remotes is completed">
 </details>
+
+## 4. Intro to HTML and CSS
+<p>Пройдено 1-2 тижні курсу на Coursera, а також Learn HTML/CSS на Codeacademy. Більшість теорії я знала, але були деякі моменти, які я зустріла вперше - це як колапс марджинів, властивість float та clear</p>
+<details><summary>Results</summary>
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/html-css-w1.png" alt="Coursera_w1" title="Coursera_w1 is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/html-css-w2.png" alt="Coursera_w2" title="Coursera_w2 is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/codeacademy-html-css.png" alt="Codeacademy courses" title="Codeacademy HTML/CSS courses is completed">
+</details>
+
+
