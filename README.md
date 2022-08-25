@@ -9,7 +9,7 @@
  2. **Front-End Basics**
 
     - [x] [Intro to HTML & CSS](#3-intro-to-html-and-css)
-    - [ ] [Responsive Web Design](#5-responsive-web-design)
+    - [x] [Responsive Web Design](#5-responsive-web-design)
     - [ ] [HTML & CSS Practice](#6-html-css-practice)
     - [ ] [JavaScript Basics](#7-javascript-basics)
     - [ ] [Document Object Model - practice](#8-document-object-model-practice)
@@ -62,5 +62,13 @@ ___
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/html-css-w2.png" alt="Coursera_w2" title="Coursera_w2 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/codeacademy-html-css.png" alt="Сodecademy courses" title="Сodecademy HTML/CSS courses is completed">
 </details>
+
+## 5. Responsive Web Design
+<p>Ці дві гри суттєво покращили моє розуміння флексів та грідів, дізналась багато нового</p>
+<details><summary>Results</summary>
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_responsive_web_design/Flex.png" alt="Flexbox Froggy" title="Flexbox Froggy game is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_responsive_web_design/Grid.png" alt="GRID GARDEN" title="GRID GARDEN game is completed">
+</details>
+
 
 
