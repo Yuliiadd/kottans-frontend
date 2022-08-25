@@ -56,11 +56,11 @@ ___
 </details>
 
 ## 4. Intro to HTML and CSS
-<p>Пройдено 1-2 тижні курсу на Coursera, а також Learn HTML/CSS на Codeacademy. Більшість теорії я знала, але були деякі моменти, які я зустріла вперше - це як колапс марджинів, властивість float та clear</p>
+<p>Пройдено 1-2 тижні курсу на Coursera, а також Learn HTML/CSS на Сodecademy. Більшість теорії я знала, але були деякі моменти, які я зустріла вперше - це як колапс марджинів, властивість float та clear</p>
 <details><summary>Results</summary>
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/html-css-w1.png" alt="Coursera_w1" title="Coursera_w1 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/html-css-w2.png" alt="Coursera_w2" title="Coursera_w2 is completed">
-<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/codeacademy-html-css.png" alt="Codeacademy courses" title="Codeacademy HTML/CSS courses is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/codeacademy-html-css.png" alt="Сodecademy courses" title="Сodecademy HTML/CSS courses is completed">
 </details>
 
 
