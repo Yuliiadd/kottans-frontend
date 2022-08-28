@@ -10,7 +10,7 @@
 
     - [x] [Intro to HTML & CSS](#3-intro-to-html-and-css)
     - [x] [Responsive Web Design](#5-responsive-web-design)
-    - [ ] [HTML & CSS Practice](#6-html-css-practice)
+    - [X] [HTML & CSS Practice](#6-html-css-practice)
     - [ ] [JavaScript Basics](#7-javascript-basics)
     - [ ] [Document Object Model - practice](#8-document-object-model-practice)
   
