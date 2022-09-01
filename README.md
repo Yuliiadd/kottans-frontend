@@ -11,7 +11,7 @@
     - [x] [Intro to HTML & CSS](#3-intro-to-html-and-css)
     - [x] [Responsive Web Design](#5-responsive-web-design)
     - [X] [HTML & CSS Practice](#6-html-css-practice)
-    - [ ] [JavaScript Basics](#7-javascript-basics)
+    - [X] [JavaScript Basics](#7-javascript-basics)
     - [ ] [Document Object Model - practice](#8-document-object-model-practice)
   
  3. **Advanced Topics**
@@ -54,6 +54,7 @@ ___
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Coursera_w4.png" alt="Coursera_w4" title="Coursera_w4 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Git_Remotes.png" alt="Git_Remotes" title="Advanced Git Remotes is completed">
 </details>
+__
 
 ## 4. Intro to HTML and CSS
 <p>Пройдено 1-2 тижні курсу на Coursera, а також Learn HTML/CSS на Сodecademy. Більшість теорії я знала, але були деякі моменти, які я зустріла вперше - це як колапс марджинів, властивість float та clear</p>
@@ -62,6 +63,7 @@ ___
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/html-css-w2.png" alt="Coursera_w2" title="Coursera_w2 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/codeacademy-html-css.png" alt="Сodecademy courses" title="Сodecademy HTML/CSS courses is completed">
 </details>
+__
 
 ## 5. Responsive Web Design
 <p>Ці дві гри суттєво покращили моє розуміння флексів та грідів, дізналась багато нового</p>
@@ -69,6 +71,24 @@ ___
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_responsive_web_design/Flex.png" alt="Flexbox Froggy" title="Flexbox Froggy game is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_responsive_web_design/Grid.png" alt="GRID GARDEN" title="GRID GARDEN game is completed">
 </details>
+__
+
+## 6. HTML & CSS Practice
+Popup-kottans. The result can be viewed [here](https://yuliiadd.github.io/Popup-kottans/ "Result on Pages")
+
+## 7. JS Basics
+<p>Було складно. Велика купа маленьких задач, багато гугління і каша в голові. Ще додатково буду підтягувати роботу з регулярними виразами, методами масивів та строк. Поки складно запамятати який з методів міняє вихідний масив, а який повертає новий, без змін старого. Задачки з рекурсією теж ще те випробування для мозку. Дивитимусь ще відео по цій темі на ютубі практикуватиму.
+Також помітила, що під час вирішення задач, я роблю багато лишніх кроків в алгоритмі. Треба працювати над оптимізацією коду, бо іноді вже не вистачає фантазії називати змінні адекватно)</p>
+<details><summary>Results</summary>
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/intro-js.png" alt="Coursera w4 - done" title="Introduction to JS is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/data-structures.png" alt="data structures" title="Data structures is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/algorithm-scripting.png" alt="algorithm-scripting" title="Algorithm scripting is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/basic-js.png" alt="basic js task" title="Basic js is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/es6.png" alt="ES6" title="ES6 task is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/functional-programming.png" alt="functional-programming" title="Functional programming task is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/intermediate-algorithm.png" alt="intermediate-algorithm" title="Intermediate-algorithm task is completed">
+</details>
+__
 
 
 
