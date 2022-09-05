@@ -16,7 +16,7 @@
   
  3. **Advanced Topics**
 
-    - [ ] [Building a Tiny JS World (pre-OOP) - practice](#9-building-a-tiny-js-world-pre-oop-practice)
+    - [x] [Building a Tiny JS World (pre-OOP) - practice](#9-building-a-tiny-js-world-pre-oop-practice)
     - [ ] [Object oriented JS - practice](#10-object-oriented-js-practice)
     - [ ] [OOP exercise - practice](#11-oop-exercise-practice)
     - [ ] [Offline Web Applications](#12-offline-web-applications)
@@ -89,6 +89,10 @@ Popup-kottans. The result can be viewed [here](https://yuliiadd.github.io/Popup-
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/intermediate-algorithm.png" alt="intermediate-algorithm" title="Intermediate-algorithm task is completed">
 </details>
 __
+
+## 8. A Tiny JS World — done
+The result can be viewed [here](https://yuliiadd.github.io/a-tiny-JS-world/ "Result on Pages")
+
 
 
 
