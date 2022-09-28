@@ -17,7 +17,7 @@
  3. **Advanced Topics**
 
     - [x] [Building a Tiny JS World (pre-OOP) - practice](#9-building-a-tiny-js-world-pre-oop-practice)
-    - [ ] [Object oriented JS - practice](#10-object-oriented-js-practice)
+    - [x] [Object oriented JS - practice](#10-object-oriented-js-practice)
     - [ ] [OOP exercise - practice](#11-oop-exercise-practice)
     - [ ] [Offline Web Applications](#12-offline-web-applications)
     - [ ] [Memory pair game — real project!](#13-memory-pair-game-real-project)
@@ -90,8 +90,15 @@ Popup-kottans. The result can be viewed [here](https://yuliiadd.github.io/Popup-
 </details>
 __
 
-## 8. A Tiny JS World — done
+## 9. A Tiny JS World — done
 The result can be viewed [here](https://yuliiadd.github.io/a-tiny-JS-world/ "Result on Pages")
+
+## 10. Object Oriented JS
+Frogger-task [demo](https://yuliiadd.github.io/frontend-nanodegree-arcade-game/ "Result on Pages")
+<details><summary>Results</summary>
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_oop/codewars.png" alt="Codewars 7 kyu - done" title="Codewars"
+</details>
+__
 
 
 
