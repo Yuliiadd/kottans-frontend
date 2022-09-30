@@ -12,7 +12,7 @@
     - [x] [Responsive Web Design](#5-responsive-web-design)
     - [X] [HTML & CSS Practice](#6-html-css-practice)
     - [X] [JavaScript Basics](#7-javascript-basics)
-    - [ ] [Document Object Model - practice](#8-document-object-model-practice)
+    - [x] [Document Object Model - practice](#8-document-object-model-practice)
   
  3. **Advanced Topics**
 
