@@ -18,7 +18,7 @@
 
     - [x] [Building a Tiny JS World (pre-OOP) - practice](#9-building-a-tiny-js-world-pre-oop-practice)
     - [x] [Object oriented JS - practice](#10-object-oriented-js-practice)
-    - [ ] [OOP exercise - practice](#11-oop-exercise-practice)
+    - [x] [OOP exercise - practice](#11-oop-exercise-practice)
     - [ ] [Offline Web Applications](#12-offline-web-applications)
     - [ ] [Memory pair game — real project!](#13-memory-pair-game-real-project)
     - [ ] [Website Performance Optimization](#14-website-performance-optimization)
@@ -98,6 +98,10 @@ Frogger-task [demo](https://yuliiadd.github.io/frontend-nanodegree-arcade-game/ 
 <details><summary>Results</summary>
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_oop/codewars.png" alt="Codewars 7 kyu - done" title="Codewars"
 </details>
+__
+
+## 11. OOP exercise
+Tiny JS world [demo](https://yuliiadd.github.io/a-tiny-JS-world/ "Result on Pages")
 __
 
 
