@@ -34,7 +34,6 @@ ___
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_basics/learngitbranching_1.png" alt="Git and GitHub Introduction screenshot" title="Git & GitHub Introduction">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_basics/learngitbranching_2.png" alt="Git & GitHub Push and Pull screenshot" title="Git & GitHub Push and Pull">
 </details>
-__
 
 ## 2. Linux CLI, and HTTP
 <p>Якщо з Git була трішки знайома,то Linux та HTTP були нові для мене. Основні команди запамятала, але треба практика. До HTTP протоколу точно ще не раз повертатимусь, бо зрозуміла його не до кінця</p>
@@ -45,8 +44,6 @@ __
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_linux_cli/Linux_Quiz4.png" alt="Quiz4" title="Quiz4 is completed">
 </details>
 
-___
-
 ## 3. VCS (hello gitty), GitHub and Collaboration
 <p>Пройдено 3 та 4 тижні курсу на Coursera. Складно дались віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes.</p>
 <details><summary>Results</summary>
@@ -54,7 +51,6 @@ ___
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Coursera_w4.png" alt="Coursera_w4" title="Coursera_w4 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_git_collaboration/Git_Remotes.png" alt="Git_Remotes" title="Advanced Git Remotes is completed">
 </details>
-__
 
 ## 4. Intro to HTML and CSS
 <p>Пройдено 1-2 тижні курсу на Coursera, а також Learn HTML/CSS на Сodecademy. Більшість теорії я знала, але були деякі моменти, які я зустріла вперше - це як колапс марджинів, властивість float та clear</p>
@@ -63,7 +59,6 @@ __
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/html-css-w2.png" alt="Coursera_w2" title="Coursera_w2 is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_html_css_intro/codeacademy-html-css.png" alt="Сodecademy courses" title="Сodecademy HTML/CSS courses is completed">
 </details>
-__
 
 ## 5. Responsive Web Design
 <p>Ці дві гри суттєво покращили моє розуміння флексів та грідів, дізналась багато нового</p>
@@ -71,7 +66,6 @@ __
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_responsive_web_design/Flex.png" alt="Flexbox Froggy" title="Flexbox Froggy game is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_responsive_web_design/Grid.png" alt="GRID GARDEN" title="GRID GARDEN game is completed">
 </details>
-__
 
 ## 6. HTML & CSS Practice
 Popup-kottans. The result can be viewed [here](https://yuliiadd.github.io/Popup-kottans/ "Result on Pages")
@@ -88,21 +82,25 @@ Popup-kottans. The result can be viewed [here](https://yuliiadd.github.io/Popup-
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/functional-programming.png" alt="functional-programming" title="Functional programming task is completed">
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/intermediate-algorithm.png" alt="intermediate-algorithm" title="Intermediate-algorithm task is completed">
 </details>
-__
 
 ## 9. A Tiny JS World — done
 The result can be viewed [here](https://yuliiadd.github.io/a-tiny-JS-world/ "Result on Pages")
+
+## 11. OOP exercise
+Tiny JS world [demo](https://yuliiadd.github.io/a-tiny-JS-world/ "Result on Pages")
 
 ## 10. Object Oriented JS
 Frogger-task [demo](https://yuliiadd.github.io/frontend-nanodegree-arcade-game/ "Result on Pages")
 <details><summary>Results</summary>
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_oop/codewars.png" alt="Codewars 7 kyu - done" title="Codewars"
 </details>
-__
 
-## 11. OOP exercise
-Tiny JS world [demo](https://yuliiadd.github.io/a-tiny-JS-world/ "Result on Pages")
-__
+
+
+
+ 
+
+
 
 
 
