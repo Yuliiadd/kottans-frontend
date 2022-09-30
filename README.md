@@ -81,6 +81,13 @@ Popup-kottans. The result can be viewed [here](https://yuliiadd.github.io/Popup-
 <img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_basics/intermediate-algorithm.png" alt="intermediate-algorithm" title="Intermediate-algorithm task is completed">
 </details>
 
+## 8. Document Object Model
+The result can be viewed [DOM-task](https://yuliiadd.github.io/kottans-DOM/ "Result on Pages")
+<details><summary>Results</summary>
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_dom/dom-manipulation.png" alt="DOM Manipulation" title="DOM Manipulation is completed">
+<img src="https://raw.github.com/Yuliiadd/kottans-frontend/main/task_js_dom/algorithm-scripting.png" alt="Algorithm scripting" title="Algorithm scripting chalanges is completed">
+</details>
+
 ## 9. A Tiny JS World — done
 The result can be viewed [here](https://yuliiadd.github.io/a-tiny-JS-world/ "Result on Pages")
 
